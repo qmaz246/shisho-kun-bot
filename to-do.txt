@@ -1,0 +1,11 @@
+Next Steps:
+
+- Add separation for MAL and AniList or togethertion (issyo)
+- Add backend for multiple users (Ha never gonna happen)
+- For user specific functions
+  - Obtain anime's status in a user's list (watching)
+  - Add anime to user's list (either complete/update/ptw)
+  - Update episode number in user's list (update)
+  - Update score of anime in user's list (complete)
+  - Add a show to Plan to Watch list
+  - View the cast of a show
